@@ -1,0 +1,28 @@
+{
+  "name": "UI5_Tutorials",
+  "version": "1.0.0",
+  "description": "Repository to store all UI5 tutorials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Domae84/UI5_Tutorials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Domae84/UI5_Tutorials/issues"
+  },
+  "homepage": "https://github.com/Domae84/UI5_Tutorials#readme",
+  "dependencies": {
+    "@openui5/sap.f": "^1.61.2",
+    "@openui5/sap.m": "^1.61.2",
+    "@openui5/sap.ui.core": "^1.61.2",
+    "@openui5/sap.ui.layout": "^1.61.2",
+    "@openui5/sap.uxap": "^1.61.2",
+    "@openui5/themelib_sap_belize": "^1.61.2"
+  }
+}
